@@ -13,7 +13,7 @@ const FirstSection = () => {
 
             
             ">
-                Get The Best At Ones
+                Get The Best At Ones a
 
             </div>
 
